@@ -1,9 +1,9 @@
 # Wildfire Tracker
 
 > This is a React app to track wildfires and plot them on a Google map.
-![screenshot](https://github.com/prakashjha18/MERN-stack-E-commerce-application/blob/master/public/1.png)
-![screenshot](https://github.com/prakashjha18/MERN-stack-E-commerce-application/blob/master/public/2.png)
-![screenshot](https://github.com/prakashjha18/MERN-stack-E-commerce-application/blob/master/public/3.png)
+![screenshot](https://github.com/prakashjha18/Wildfire-listing/tree/main/public/1.png)
+![screenshot](https://github.com/prakashjha18/Wildfire-listing/tree/main/public/2.png)
+![screenshot](https://github.com/prakashjha18/Wildfire-listing/tree/main/public/3.png)
 ## Usage
 
 ```
